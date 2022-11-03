@@ -1,17 +1,15 @@
-
 .header {
-    text-align: center;
-    background-color: rgb(230, 195, 143);
-    color: dark rgb(123, 58, 58); 
-        font-weight: bold;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  background-color: rgb(230, 195, 143);
+  color: dark rgb(123, 58, 58);
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
 .review {
-    text-align: left;
-    background-color: blanchedalmond;
-    color: saddlebrown;
-    border: 0ch;
-    border-color: dashed saddlebrown;
+  text-align: left;
+  background-color: blanchedalmond;
+  color: saddlebrown;
+  border: 0ch;
+  border-color: dashed saddlebrown;
 }
-

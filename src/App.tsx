@@ -1,18 +1,18 @@
-import Header from "./Header"
-import "./style.css"
-import Review from "./Review"
+import Header from "./Header";
+import "./style.css";
+import Review from "./Review";
 
-function App (): JSX.Element{
-    return(
+function App(): JSX.Element {
+  return (
     <div>
-    <div className = "a">
+      <div className="a">
         <Header />
+      </div>
+      <div>
+        <Review />
+      </div>
     </div>
-    <div>
-       <Review />
-    </div>
-    </div>
-    )
+  );
 }
 
 export default App;
