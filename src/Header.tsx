@@ -1,9 +1,10 @@
 
 function Header(): JSX.Element {
     return (
-    <div>
 
-    <h1> Freya Jensen Beauty LTD</h1>
+    <div className = "header">
+
+    <h1 className = "a"> Freya Jensen Beauty LTD</h1>
 
     <h2> Eyelash and Brow specialist </h2>
 

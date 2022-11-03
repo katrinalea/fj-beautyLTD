@@ -1,8 +1,9 @@
 import Header from "./Header"
+import "./style.css"
 
 function App (): JSX.Element{
     return(
-    <div> "Hello this is the app" 
+    <div className = "a">
         <Header />
     </div>
     
