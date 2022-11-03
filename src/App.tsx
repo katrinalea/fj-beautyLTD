@@ -5,12 +5,8 @@ import Review from "./Review";
 function App(): JSX.Element {
   return (
     <div>
-      <div className="a">
-        <Header />
-      </div>
-      <div>
-        <Review />
-      </div>
+      <Header />
+      <Review />
     </div>
   );
 }
