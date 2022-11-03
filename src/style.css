@@ -7,6 +7,14 @@
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.review {
+    text-align: left;
+    background-color: blanchedalmond;
+    color: saddlebrown;
+    border: 0ch;
+    border-color: dashed saddlebrown;
+}
+
 
 
 /* // [
