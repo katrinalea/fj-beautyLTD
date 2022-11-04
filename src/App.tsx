@@ -1,5 +1,5 @@
 import Header from "./Header";
-import Review from "./Review"
+import Review from "./Review";
 import "./style.css";
 
 function App(): JSX.Element {
