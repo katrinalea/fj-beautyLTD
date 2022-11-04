@@ -1,7 +1,7 @@
 .header {
   text-align: center;
   background-color: rgb(230, 195, 143);
-  color: dark rgb(123, 58, 58);
+  color: saddlebrown;
   font-weight: bold;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   padding: 20px;
@@ -10,7 +10,7 @@
 
 .review {
   text-align: center;
-  background-color: blanchedalmond;
+  background-color: rgb(230, 195, 143);
   color: saddlebrown;
   border: 0ch;
   border-color: dashed saddlebrown;
@@ -19,10 +19,12 @@
 .nav {
   float: center;
   display: block;
-  color: #e8925d;
+  color: saddlebrown;
   text-align: center;
-  padding: 14px 16px;
+  padding: "10px; margin: 10px";
   text-decoration: none;
+  background-color: rgb(230, 195, 143);
+  word-spacing: 5px;
 }
 .image {
   width: 80%;

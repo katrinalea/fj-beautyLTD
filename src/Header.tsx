@@ -3,7 +3,7 @@ function Header(): JSX.Element {
     <div className="header">
       <h1> Freya Jensen Beauty LTD</h1>
 
-      <h2> Eyelash and Brow specialist </h2>
+      <h3> Eyelash, Brow and Makeup specialist </h3>
 
       <p>
         <a href="https://www.instagram.com/freyajensenbeauty/">
