@@ -4,12 +4,36 @@
   color: dark rgb(123, 58, 58);
   font-weight: bold;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .review {
-  text-align: left;
+  text-align: center;
   background-color: blanchedalmond;
   color: saddlebrown;
   border: 0ch;
   border-color: dashed saddlebrown;
+}
+
+.nav {
+  float: center;
+  display: block;
+  color: #e8925d;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.image {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 100%;
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.page {
+  background-color: antiquewhite;
+  border-style: groove;
 }
