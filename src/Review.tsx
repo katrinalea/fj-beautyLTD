@@ -1,7 +1,7 @@
 function Review(): JSX.Element {
   return (
     <div className="review">
-      <input type="text"> Please leave me a review. </input>
+      <input type="text" value = "Please leave me a review" />
       <button>Submit</button>
     </div>
   );
