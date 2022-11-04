@@ -6,12 +6,12 @@ import "./style.css";
 
 function App(): JSX.Element {
   return (
-    <>
+    <div className="page">
       <Header />
       <Nav />
       <Image />
       <Review />
-    </>
+    </div>
   );
 }
 
