@@ -3,7 +3,7 @@
   background-color: rgb(230, 195, 143);
   color: saddlebrown;
   font-weight: bold;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: Trattatello, fantasy;
   padding: 20px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -51,4 +51,7 @@
   right: 0;
   bottom: 0;
   overflow: hidden;
+}
+.rating {
+  text-align: center;
 }

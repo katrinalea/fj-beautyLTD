@@ -2,6 +2,7 @@ import Header from "./Header";
 import Review from "./Review";
 import Nav from "./nav";
 import Image from "./images";
+import Stars from "./Stars";
 import "./style.css";
 
 function App(): JSX.Element {
@@ -11,6 +12,7 @@ function App(): JSX.Element {
       <Nav />
       <Image />
       <Review />
+      <Stars />
     </div>
   );
 }
